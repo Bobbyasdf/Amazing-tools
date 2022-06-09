@@ -1,0 +1,214 @@
+/* The Navbar */
+#camp {
+    width: 100%;
+    background-image: url(img/pxfuel\ 1.png);
+    background-size: 100% 100%;
+}
+
+nav {
+    font-size: small;
+    padding: 15px;
+}
+
+nav .navbar-brand {
+    font-size: small;
+    margin-top: -10px;
+}
+
+nav .nav-item .nav-link button {
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    width: 80px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: #344767;
+}
+
+#tools {
+    text-align: center;
+    padding: 20%;
+}
+ 
+#tools p {
+    font-size: small;
+}
+
+#tools a button {
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 130px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: #344767;
+}
+
+#tools p i {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+/* functionality */
+#insight {
+    width: 100%;
+    background-color: white;
+    border: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: -50px;
+    padding-bottom: 50px;
+}
+
+#small {
+    margin-top: 50px;
+    font-size: 12.2px;
+}
+
+#small img {
+    width: 12%;
+}
+
+#small strong {
+    font-size: 15px;
+}
+
+#small p {
+    margin-top: 10px;
+}
+
+#visitor {
+    width: 100%;
+    background-color: white;
+    border: 3px solid darkgray;
+    border-radius: 10px;
+    border-top: none;
+    text-align: center;
+    font-size: 12.2px;
+    padding: 20px;
+}
+
+#visitor img {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    margin-top: -40px;
+}
+
+#visitor p {
+    margin-top: 10px;
+}
+
+#visitor button {
+    font-size: 12.2px;
+    text-transform: uppercase;
+    width: 40%;
+}
+
+/* The Executive team */
+#team {
+    width: 100%;
+    background: linear-gradient(180deg, #3E3D45 0%, #202020 100%);
+    padding: 15px;
+    padding-bottom: 50px;
+}
+
+#team h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 100px;
+    margin-left: 15px;
+}
+
+#team p {
+    color: white;
+    margin-left: 15px;
+    font-size: 12.2px;
+}
+
+#name {
+    width: 100%;
+    background-color: white;
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;    
+}
+
+#image {
+    margin-top: -35px;
+}
+
+#name h6 {
+    padding-left: 15px;
+    color: #344767;
+    margin-top: 25px;
+}
+
+#name p {
+    color: #7B809A;
+}
+
+/* Sponsor */
+#Sponsor {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+}
+
+#sponsorname {
+    margin-top: 70px;
+}
+
+#sponsorname img {
+    width: 100%;
+}
+
+/* Projects, Hours & Support */
+#P-H-S {
+    margin-top: 100px;
+    width: 75%;
+    text-align: center;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
+#P-H-S h3 {
+    color: #1A73E7;
+}
+
+#P-H-S p {
+    color: #7B809A;
+    font-size: 12.2px;
+    margin-top: -5px;
+}
+
+/* News */
+#News p {
+    color: #7B809A;
+    font-size: 12.2px;
+    margin-top: -5px; 
+}
+
+#News img {
+    width: 100%;
+    text-align: center;
+}
+
+/* Copyright */
+#Copyright {
+    width: 100%;
+    font-size: 12.2px;
+    color: #344767;
+}
+
+#Copyright i {
+    padding: 5px;
+    margin-left: -5px;
+}
+
+
+
